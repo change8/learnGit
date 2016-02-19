@@ -1,3 +1,4 @@
 this is a test file
 used to learn git
-
+add a line to learn and test git
+the forth line to test git status
